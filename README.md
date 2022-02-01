@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Node.js and express.js
 - 👯 I’m  cuurently not looking to collaborate. I'm just looking for any internship.
 - 🤔 I’m looking for help with backend tech.
-- 📫 How to reach me:  insta-@vinay_5840
+- 📫 How to reach me:[Instagram- @vinay_5840](https://www.instagram.com/vinay_5840/), [LinkedIn- @Vinay Badola](https://www.linkedin.com/in/vinay-badola-b05235211/) 
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Average athlete who likes to run.
 
