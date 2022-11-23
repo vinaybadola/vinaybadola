@@ -11,5 +11,6 @@
 - ⚡ Fun fact: Average athlete who likes to run.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinaybadola&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+Below are the Badges I earned During Hackoctober Fest
 <img src = "https://holopin.io/api/user/board?user=vinay_badola"/>
 
