@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I'm a software developer with 1 year of experience in developing web applications, SaaS Applications, and Restful Web services.
+- 🔭 I'm a software developer with 1 year of experience in developing web applications, SaaS Applications, and Restful Web Services.
 - 👯 I’m  currently learning frontend frameworks and DevOps. 
 - 🤔 I’m looking to collaborate with backend tech.
 - 📫 How to reach me:[Instagram- @vinay_5840](https://www.instagram.com/vinay_5840/), [LinkedIn- @Vinay Badola](https://www.linkedin.com/in/vinay-badola-b05235211/) 
