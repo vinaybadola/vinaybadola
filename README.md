@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Running,Football,Scifi,Tech world
 - Tech Stack: HTML/CSS/JS, Tailwind CSS Firebase, NodeJS, ExpressJS, Vercel, Docker, MongoDB, React/Next, Vue, PHP/Laravel, MySQL, CodeIgniter, Redis
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaybadola&show_icons=true&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinaybadola&show_icons=true&theme=dark" />
 Below are the Badges I earned During Hackoctober Fest
 <img src = "https://holopin.io/api/user/board?user=vinay_badola"/>
 
